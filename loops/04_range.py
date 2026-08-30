@@ -1,0 +1,8 @@
+range(1,22)
+num = list(range(1,22))
+print(num)
+range(1,23,2)
+lalu = list(range(1,23,2))
+print(lalu)
+backward_counting = list(range(10,1,-1))
+print(backward_counting)
